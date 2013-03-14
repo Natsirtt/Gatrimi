@@ -37,7 +37,7 @@ the team that created Gatrimi was capable of at half part of their 3rd year of I
 Since the application is not likely to be maintened, please do not email the authors for bugs or feature suggestions.
 Though you can write an email to tristan.louet@etu.univ-rouen.fr to comment or critic (either badly or nicely) the
 code ONLY IF you keep in mind that the project was created in a universitary context which mean that we didn't, at the
-time, had the knowledge of such things as Java's thread for example.
+time, had the knowledge of such things as Java's thread or ChangeEvent objects for example.
 
 You can find a user manual written in French that explains how the application works (since it's a basic application,
 it's easy to find out how to use it by yourself though).
