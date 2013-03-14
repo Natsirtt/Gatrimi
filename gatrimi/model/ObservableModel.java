@@ -1,3 +1,8 @@
+/*
+ * This work belongs to Phillippe Andary who placed it under
+ * Creative Commons by-nc-nd 2.0 Unported License.
+ */
+
 package gatrimi.model;
 
 import java.util.Observer;
