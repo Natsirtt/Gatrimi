@@ -3,9 +3,10 @@ Gatrimi
 
 **A simple non-oriented graph editor  --  created for a university project**
 
-Authors : - Tristan LOUET <tristan.louet@etu.univ-rouen.fr>
-          - Gaëtan FERRY
-          - Adrien SMONDACK
+Authors : 
+- Tristan LOUET <tristan.louet@etu.univ-rouen.fr>
+- Gaëtan FERRY
+- Adrien SMONDACK
 
 This editor allows you to create and manipulate graphes' nodes, edges and to colorate them using the DSATUR algorithm.
 The application can switch between a matrix representation of the graph and a list one (that feature, which is not
