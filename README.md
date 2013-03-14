@@ -15,6 +15,7 @@ Gatrimi is distributed in the hope that it will be useful, but WITHOUT ANY WARRA
 of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 you should have received a copy of the GNU General Public License along with Gatrimi.
 If not, see http://www.gnu.org/licenses/.
+
 --------------------------------------------------------------------------------------------------------------------
 
 Authors : 
