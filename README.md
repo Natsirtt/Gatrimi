@@ -27,7 +27,7 @@ It also allows you to save your current graph,load a saved one and export your g
 
 Since it was created for a university project, this editor is a really basic one (not threaded at all),
 with unimplemented features (such as undo/redo) which weren't priority goals in the subject.
-For the same reason, Gatrimi is likely not going to be developed anymore (though it could be ONE DAY if one or several
+For the same reason, Gatrimi is likely not going to be developed anymore (though it could be one day if one or several
 of the authors decide to restart the work). So the purpose of it is essentially to show interested people what
 the team that created Gatrimi was capable of at half part of their 3rd year of IT License.
 
